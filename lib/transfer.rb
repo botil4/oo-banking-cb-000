@@ -3,7 +3,7 @@ class Transfer
   attr_writer
   attr_reader
 
-  def initialize
+  def initialize(sender, receiver, amount)
 
   end
 
