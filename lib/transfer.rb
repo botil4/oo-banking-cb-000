@@ -1,3 +1,10 @@
 class Transfer
-  # your code here
+  attr_accessor
+  attr_writer
+  attr_reader
+
+  def initialize
+
+  end
+
 end
